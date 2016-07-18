@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A04_UI.iml" filepath="$PROJECT_DIR$/A04_UI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animtextview/animtextview.iml" filepath="$PROJECT_DIR$/animtextview/animtextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_calculator/day02_calculator.iml" filepath="$PROJECT_DIR$/day02_calculator/day02_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_imageview/day02_imageview.iml" filepath="$PROJECT_DIR$/day02_imageview/day02_imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_layoutinclude/day02_layoutinclude.iml" filepath="$PROJECT_DIR$/day02_layoutinclude/day02_layoutinclude.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_layout自定义/day02_layout自定义.iml" filepath="$PROJECT_DIR$/day02_layout自定义/day02_layout自定义.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_聊天界面/day02_聊天界面.iml" filepath="$PROJECT_DIR$/day02_聊天界面/day02_聊天界面.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qyz_MD_AnimatedSeletor/qyz_MD_AnimatedSeletor.iml" filepath="$PROJECT_DIR$/qyz_MD_AnimatedSeletor/qyz_MD_AnimatedSeletor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qyz_MD_Cardview/qyz_MD_Cardview.iml" filepath="$PROJECT_DIR$/qyz_MD_Cardview/qyz_MD_Cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qyz_MD_RecycleView/qyz_MD_RecycleView.iml" filepath="$PROJECT_DIR$/qyz_MD_RecycleView/qyz_MD_RecycleView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qyz_MD_TransitionAnim/qyz_MD_TransitionAnim.iml" filepath="$PROJECT_DIR$/qyz_MD_TransitionAnim/qyz_MD_TransitionAnim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qyz_MD_outline/qyz_MD_outline.iml" filepath="$PROJECT_DIR$/qyz_MD_outline/qyz_MD_outline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qyz_MD_palette/qyz_MD_palette.iml" filepath="$PROJECT_DIR$/qyz_MD_palette/qyz_MD_palette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qyz_MD_toolbar/qyz_MD_toolbar.iml" filepath="$PROJECT_DIR$/qyz_MD_toolbar/qyz_MD_toolbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qyz_SystemWidget/qyz_SystemWidget.iml" filepath="$PROJECT_DIR$/qyz_SystemWidget/qyz_SystemWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qyz_notification_new/qyz_notification_new.iml" filepath="$PROJECT_DIR$/qyz_notification_new/qyz_notification_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qyz_notification_old/qyz_notification_old.iml" filepath="$PROJECT_DIR$/qyz_notification_old/qyz_notification_old.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui_stackview/ui_stackview.iml" filepath="$PROJECT_DIR$/ui_stackview/ui_stackview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapTextView/wrapTextView.iml" filepath="$PROJECT_DIR$/wrapTextView/wrapTextView.iml" />
+    </modules>
+  </component>
+</project>

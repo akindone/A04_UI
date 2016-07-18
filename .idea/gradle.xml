@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/animtextview" />
+            <option value="$PROJECT_DIR$/day02_calculator" />
+            <option value="$PROJECT_DIR$/day02_imageview" />
+            <option value="$PROJECT_DIR$/day02_layoutinclude" />
+            <option value="$PROJECT_DIR$/day02_layout自定义" />
+            <option value="$PROJECT_DIR$/day02_聊天界面" />
+            <option value="$PROJECT_DIR$/qyz_MD_AnimatedSeletor" />
+            <option value="$PROJECT_DIR$/qyz_MD_Cardview" />
+            <option value="$PROJECT_DIR$/qyz_MD_RecycleView" />
+            <option value="$PROJECT_DIR$/qyz_MD_TransitionAnim" />
+            <option value="$PROJECT_DIR$/qyz_MD_outline" />
+            <option value="$PROJECT_DIR$/qyz_MD_palette" />
+            <option value="$PROJECT_DIR$/qyz_MD_toolbar" />
+            <option value="$PROJECT_DIR$/qyz_SystemWidget" />
+            <option value="$PROJECT_DIR$/qyz_notification_new" />
+            <option value="$PROJECT_DIR$/qyz_notification_old" />
+            <option value="$PROJECT_DIR$/ui_stackview" />
+            <option value="$PROJECT_DIR$/wrapTextView" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/animtextview" />
+            <option value="$PROJECT_DIR$/day02_calculator" />
+            <option value="$PROJECT_DIR$/day02_imageview" />
+            <option value="$PROJECT_DIR$/day02_layoutinclude" />
+            <option value="$PROJECT_DIR$/day02_layout自定义" />
+            <option value="$PROJECT_DIR$/day02_聊天界面" />
+            <option value="$PROJECT_DIR$/qyz_MD_AnimatedSeletor" />
+            <option value="$PROJECT_DIR$/qyz_MD_Cardview" />
+            <option value="$PROJECT_DIR$/qyz_MD_RecycleView" />
+            <option value="$PROJECT_DIR$/qyz_MD_TransitionAnim" />
+            <option value="$PROJECT_DIR$/qyz_MD_outline" />
+            <option value="$PROJECT_DIR$/qyz_MD_palette" />
+            <option value="$PROJECT_DIR$/qyz_MD_toolbar" />
+            <option value="$PROJECT_DIR$/qyz_SystemWidget" />
+            <option value="$PROJECT_DIR$/qyz_notification_new" />
+            <option value="$PROJECT_DIR$/qyz_notification_old" />
+            <option value="$PROJECT_DIR$/ui_stackview" />
+            <option value="$PROJECT_DIR$/wrapTextView" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

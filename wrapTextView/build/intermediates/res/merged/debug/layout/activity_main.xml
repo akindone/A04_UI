@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.example.wraptextview.WrapTextView
+        android:background="#33654321"
+        android:textColor="#123456"
+        android:textSize="25sp"
+        android:text="￥150汉子奇怪的行不行"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

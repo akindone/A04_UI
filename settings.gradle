@@ -1,0 +1,2 @@
+include ':day02_layoutinclude', ':day02_聊天界面', ':day02_layout自定义', ':day02_imageview', ':day02_calculator', ':qyz_SystemWidget', ':qyz_MD_palette', ':qyz_MD_outline', ':qyz_MD_TransitionAnim', ':qyz_MD_AnimatedSeletor', ':qyz_MD_toolbar', ':qyz_notification_old', ':qyz_notification_new', ':qyz_MD_RecycleView', ':qyz_MD_Cardview', ':ui_stackview', ':animtextview'
+include ':wrapTextView'

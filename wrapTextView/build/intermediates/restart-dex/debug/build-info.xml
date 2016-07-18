@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="21"
+    density="hdpi"
+    format="7"
+    timestamp="50293889186772" >
+
+    <task
+        name="javac"
+        duration="97" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="45" />
+    <task
+        name="verifier"
+        duration="15" />
+
+    <artifact
+        location="F:\AndroidStudioProjects\github\Train\A04_UI\wrapTextView\build\outputs\apk\wrapTextView-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="50293889186772" >
+        <artifact
+            location="F:\AndroidStudioProjects\github\Train\A04_UI\wrapTextView\build\outputs\apk\wrapTextView-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
